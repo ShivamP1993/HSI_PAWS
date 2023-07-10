@@ -14,7 +14,7 @@ Tensorflow 2
 # Steps:
 
 ```
-1. Download the dataset from the provided URL in data folder
+1. Download the dataset from the provided URL in Data folder
 ```
 ```
 2. Run data_prepare.py
