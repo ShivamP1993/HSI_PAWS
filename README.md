@@ -12,8 +12,7 @@ Hyperspectral image (HSI) classification is gaining a lot of momentum in present
 Tensorflow 2
 ```
 # Steps:
-```
-# Keep all the files in same directory.
+
 ```
 1. Download the dataset from the provided URL in data folder
 ```
