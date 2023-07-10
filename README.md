@@ -12,7 +12,8 @@ Hyperspectral image (HSI) classification is gaining a lot of momentum in present
 Tensorflow 2
 ```
 # Steps:
-
+```
+# Keep all the files in same directory.
 ```
 1. Download the dataset from the provided URL in data folder
 ```
@@ -25,7 +26,7 @@ Tensorflow 2
 # Citation
 
 If using the concept or code, kindly cite the paper as: 
->S. Pande, N.A.A> Braham, Y. Wang, C.M. Albrecht, B. Banerjee, X.X. Zhu. Bidirectional GRU based autoencoder for dimensionality reduction in hyperspectral images. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), July, 2023.
+>S. Pande, N.A.A. Braham, Y. Wang, C.M. Albrecht, B. Banerjee, X.X. Zhu. Bidirectional GRU based autoencoder for dimensionality reduction in hyperspectral images. IEEE International Geoscience and Remote Sensing Symposium (IGARSS), July, 2023.
 
 You can also use the bibtex as:
 ```
