@@ -17,10 +17,10 @@ Tensorflow 2
 1. Download the dataset from the provided URL in Data folder
 ```
 ```
-2. Run data_prepare.py
+2. Run data_prepare_H13.py
 ```
 ```
-3. Run model_bgae.py
+3. Run training_and_finetuning_H13
 ```
 # Citation
 
